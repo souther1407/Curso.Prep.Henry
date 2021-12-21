@@ -1,0 +1,27 @@
+Variables:
+    Una variable es un contenedor o lugar donde se pueden guardar valores, como por ejemplo
+    un número, un texto (string), etc. Sirven para poder usar su valor más adelante, además 
+    darles un nombre que represente su utilidad, ejemplo : edad = 15, altura = 1.80
+    15 y 1.80 son numeros, pero el nombre de las variables les da un significado particular.
+
+Strings:
+
+    Las Strings son varios caracteres(numeros,letras,simbolos como +?´ etc) juntos uno tras otro.
+    representan texto en los lenguajes.
+
+Funciones:
+
+    Las funciones son porciones de código reutilizables, como las variables, tienen un nombre para
+    poder usarlas, por ejemplo: saludar().
+    Las funciones pueden usar valores diferentes cuando se invocan, para eso se requiere que se le pasen
+    parámetros, ejemplo: saludar("Juan").
+    Las funciones tambien pueden retornar un valor, en ese caso, se debe indicar dentro de esta con la palabra
+    "return" y el valor: ejemplo: 
+        function suma(a,b){
+            return a + b 
+        }
+
+Booleanos:
+    Los booleanos son un tipo de datos que pueden tomar 2 valores, verdadero(true) o falso(false)
+    Son muy utilizados para por ejemplo, comprobar estados, o condiciones tipo "si algo entonces hago esto".
+    
