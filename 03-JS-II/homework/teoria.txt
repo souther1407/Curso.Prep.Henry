@@ -1,0 +1,20 @@
+For:
+    El bucle for es un bucle que permite iterar o repetir un bloque de código una cantidad de veces dada.
+    Esta hecho de la siguiente forma:
+        for(valor inicial;condicion de parada;incremento)
+    *el valor inicial es el valor por el que se va a empezar a recorrer(se puede usar dentro del bloque)
+    *la condicion de parada es la condicion que evalua el valor inicial para determinar si el bucle finaliza.
+    *el incremento es cuanto el valor inicial se incrementa o cambia para que cumpla con la condicion de parada
+
+    
+Operadores logicos:
+    Los operadores lógicos o booleanos son operadores que trabajan con valores booleanos (true o false)
+    existen 3 tipos:
+     && o AND
+     || u OR
+     !  o NOT
+
+    el AND da true si ambos valores son true, sino false
+    el OR da true si cualquiera de los valores son true, sino false
+    el NOT trabaja con un solo valor, da el inverso, osea, false si el valor era true y true si el valor era false
+
