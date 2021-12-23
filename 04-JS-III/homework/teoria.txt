@@ -1,0 +1,13 @@
+Arrays:
+    Los arrays son un tipo de datos que representan una lista de valores ordenados por un índice
+    Se usan cuando se quiere trabajar con un conjunto de datos a la vez. Ya sea guardar varios datos
+    como leerlos. Sin los arrays, se requeriria declarar varias variables individuales para trabajar con muchos datos
+    haciendo el código no escalable.
+
+    su estructura es la siguente: [valor1,valor2,....,valorn]
+    
+    para acceder a un elemento en particular, se usa el índice asociado, ejemplo:
+    en el array=["Hola","como","estas"]
+    para leer "Hola" se accede con array[0]
+
+    los arreglos comienzan a ubicar elementos en la posicion 0.
