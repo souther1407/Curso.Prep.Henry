@@ -1,0 +1,11 @@
+prototype
+    Un prototype o prototipo es un objeto en el que se basan otros, es decir, es un objeto que tiene propiedades
+    y métodos en común para que otros objetos puedan utilizarlos.
+    Permite re utilizar metodos y propiedades, además de añadir nuevos.
+    para acceder al protipo de un objeto se utiliza la propiedad "protopyte"
+
+
+Constructors:
+    Los Constructors o Constructores son funciones creadoras de objetos, o sea, crean nuevos objetos.
+    Por lo general se usan con parámetros para darle valores a los atributos a la hora de crear los objetos
+    El proceso de creación se activa usando la keyword "new" antes de llamar al Constructor
