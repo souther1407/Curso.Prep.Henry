@@ -1,0 +1,33 @@
+Objeto:
+    Un objeto es un tipo de dato que representa un concepto de la vida real, como por ejemplo una persona,
+    un auto,etc.
+    Los objetos modelan cosas de la vida real mediante el uso de propiedades(características del objeto)
+    y cosas que son capaces de hacer(métodos). Por ejemplo, una persona tiene un nombre,apellido, una edad
+    un lugar de nacimiento, etc. Estas serian las propiedades. Por otro lado, una persona es capaz de hablar,
+    comer,saludar a otra persona, caminar, etc. Estas serían los métodos.
+
+Propiedades:
+
+    Las propiedades son el conjunto de atributos nombre/valor de cada objeto, representan las características
+    del mismo. Ejemplo: const persona = {nombre:"Ignacio",apellido:"Lestrada"}
+    En Javascript las propiedades se pueden modificar y/o leer usando el punto (.), Ejemplo: persona.nombre me da "Ignacio"
+    Tambien se pueden acceder usando los corchetes [], Ejemplo: persona["Nombre"] tambien me da "Ignacio".
+
+
+Metodos:
+    Los métodos representan las cosas que el objeto es capaz de hacer, en términos de programación, son funciones.
+    Por ejemplo const persona = {nombre:"Ignacio",apellido:"Lestrada",saludar:function(){console.log("holis")}}
+    saludar es un método, ya que representa algo que la persona es capaz de hacer, en este caso saludar y es una funcion.
+
+
+For .. in: El bucle for in es un tipo abreviado de bucle for usado para iterar sobre los elementos de un objeto
+    en este caso los atributos.
+    su sintaxis en es: for(let propiedad in objeto)
+
+
+Notación de puntos vs notación de corchetes:
+    El uso de una u otra notacion para acceder a las propiedades de un objeto depende de la situacion, por ejemplo
+    si se desea acceder mediante un bucle for .. in se usara la notacion de corchetes, en otros casos es a elección personal
+    del programador.
+
+
