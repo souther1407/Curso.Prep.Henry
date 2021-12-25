@@ -1,0 +1,4 @@
+Función Callback:
+    una función Callback es una función que está como argumento de otra función, el hecho de que se pueda
+    pasar una funcion como argumento es una caracteristica de la programacion funcional.
+    El uso de Callbacks permite mucha utilidad a la hora de reutilizar funciones.
